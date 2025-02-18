@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cover\\UnityProjects\\creativecore-audio-2022.3LTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6603C208-7E32-1726-0CCB-FA71619E185C}|Assembly-CSharp.csproj|c:\\users\\cover\\unityprojects\\creativecore-audio-2022.3lts\\assets\\creativecore_audio\\scripts\\roomaudiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6603C208-7E32-1726-0CCB-FA71619E185C}|Assembly-CSharp.csproj|solutionrelative:assets\\creativecore_audio\\scripts\\roomaudiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6603C208-7E32-1726-0CCB-FA71619E185C}|Assembly-CSharp.csproj|c:\\users\\cover\\unityprojects\\creativecore-audio-2022.3lts\\assets\\creativecore_audio\\scripts\\footstepmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6603C208-7E32-1726-0CCB-FA71619E185C}|Assembly-CSharp.csproj|solutionrelative:assets\\creativecore_audio\\scripts\\footstepmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomAudioController.cs",
+              "DocumentMoniker": "C:\\Users\\cover\\UnityProjects\\creativecore-audio-2022.3LTS\\Assets\\CreativeCore_Audio\\Scripts\\RoomAudioController.cs",
+              "RelativeDocumentMoniker": "Assets\\CreativeCore_Audio\\Scripts\\RoomAudioController.cs",
+              "ToolTip": "C:\\Users\\cover\\UnityProjects\\creativecore-audio-2022.3LTS\\Assets\\CreativeCore_Audio\\Scripts\\RoomAudioController.cs",
+              "RelativeToolTip": "Assets\\CreativeCore_Audio\\Scripts\\RoomAudioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:30:50.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FootstepManager.cs",
+              "DocumentMoniker": "C:\\Users\\cover\\UnityProjects\\creativecore-audio-2022.3LTS\\Assets\\CreativeCore_Audio\\Scripts\\FootstepManager.cs",
+              "RelativeDocumentMoniker": "Assets\\CreativeCore_Audio\\Scripts\\FootstepManager.cs",
+              "ToolTip": "C:\\Users\\cover\\UnityProjects\\creativecore-audio-2022.3LTS\\Assets\\CreativeCore_Audio\\Scripts\\FootstepManager.cs",
+              "RelativeToolTip": "Assets\\CreativeCore_Audio\\Scripts\\FootstepManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:43:42.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
